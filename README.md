@@ -28,7 +28,9 @@ All changes are reviewed before merging to keep the dictionary consistent and re
 You can:
 Download the latest release from the Releases page
 Or clone the repo directly:
-```git clone https://github.com/lietsel-jones/data-dict-test.git```
+```bash
+git clone https://github.com/lietsel-jones/data-dict-test.git
+```
 Then reference the dictionary in your own analyses or harmonization pipelines.
 
 ## How to cite
@@ -37,4 +39,5 @@ GP2 Data Dictionary. Version X.X. GitHub Repository: https://github.com/lietsel-
 
 ## Maintainers
 Maintainer: Lietsel Jones
-Contributions welcome from the community!
+
+Contributions are very welcome from the community!
