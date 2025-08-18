@@ -36,7 +36,7 @@ Then reference the dictionary in your own analyses or harmonization pipelines.
 
 ## How to cite
 If you use this data dictionary in your work, please cite it as:
-GP2 Data Dictionary. Version X.X. GitHub Repository: https://github.com/lietsel-jones/data-dict-test.git. Accessed YYYY-MM-DD.
+GP2 Data Dictionary. Version 1.1. GitHub Repository: https://github.com/lietsel-jones/data-dict-test.git. Accessed YYYY-MM-DD.
 
 ## Maintainers
 Maintainer: Lietsel Jones
