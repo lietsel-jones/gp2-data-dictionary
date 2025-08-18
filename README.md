@@ -12,10 +12,11 @@ We welcome contributions! There are two main ways to suggest changes:
 *  Report missing variables
 *  Suggest new terms or metadata
 *  Flag typos or unclear definitions
-2.  Submit a pull request
+2.  Submit a pull request (PR)
 *  Fork this repository
 *  Edit the dictionary file
 *  Open a PR so we can review together
+
 All changes are reviewed before merging to keep the dictionary consistent and reliable.
 
 ## Update Process
@@ -27,7 +28,7 @@ All changes are reviewed before merging to keep the dictionary consistent and re
 ## How to use the dictionary
 You can:
 Download the latest release from the Releases page
-Or clone the repo directly:
+OR clone the repo directly:
 ```bash
 git clone https://github.com/lietsel-jones/data-dict-test.git
 ```
