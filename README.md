@@ -13,9 +13,12 @@ We welcome contributions! There are two main ways to suggest changes:
 *  Suggest new terms or metadata
 *  Flag typos or unclear definitions
 2.  Submit a pull request (PR)
-*  Fork this repository
+*  Fork this repository (from the button top right)
+*  Clone the repo to your local
+*  Create a new branch for your changes (`git checkout -b YOUR_BRANCH_NAME`)
 *  Edit the dictionary file
-*  Open a PR so we can review together
+*  Commit and push your changes (`git commit -m "Your commit message"` and `git push origin YOUR_BRANCH_NAME`)
+*  Open a PR at your GitHub so we can review together
 
 All changes are reviewed before merging to keep the dictionary consistent and reliable.
 
