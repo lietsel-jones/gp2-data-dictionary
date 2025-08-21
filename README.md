@@ -1,13 +1,16 @@
 # GP2 clinical data dictionary repository
 Welcome to the GP2 clinical data dictionary repository!
 This repo is the central, version-controlled source for GP2’s data dictionary.
-It helps researchers and collaborators keep variables consistent, document updates transparently, and make sure everyone uses the GP2 standard format for clinical data.
+It helps researchers and collaborators keep variables consistent, document updates transparently, and make sure everyone uses and references the most up-to-date GP2 standard format for clinical data.
 
 ## What's incuded?
 You will find a .csv that can be browsed, downloaded for use in scripts/analysis, or you can make requests for additions!
 
+## How to view the data dictionary
+If you are solely interested in browsing the items to determine what modalities and variables are captured in GP2 clinical datasets, directly click on the .csv file in this repo. It will show a preview of the data dictionary and there is also an option to download the file directly! This is a useful resource if you are a site/data manager or PI interested in preparing clinical data for transfer to GP2.
+
 ## How you can contribute
-We welcome contributions! There are two main ways to suggest changes:
+We welcome contributions if you are interested in suggesting changes or additions to the GP2 data dictionary! There are two main ways to suggest changes or updates to the document in this repository:
 1.  Open an issue
 *  Report missing variables
 *  Suggest new terms or metadata
